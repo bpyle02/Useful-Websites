@@ -72,6 +72,9 @@ This is a list of some of my favorite websites I have found on the internet. Fee
 ## Fitness
 - [Darebee - Fitness Programs, Guides, Challenges, and More](https://darebee.com/)
 
+## Home Improvement
+- [Roof Cost Data - Free Roof Replacement Cost Calculator](https://roofcostdata.com/roof-replacement-cost-calculator)
+
 ## Job Search
 - [Good Jobs First - Search Subsidies, Violations, Tax Breaks, etc. for Companies](https://goodjobsfirst.org/)
 - [Levels.FYI - Compare Salaries and Titles from Multiple Companies](https://www.levels.fyi/?compare=Bloomberg,JPMorgan%20Chase,Datadog&track=Software%20Engineer)
